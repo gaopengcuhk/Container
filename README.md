@@ -5,9 +5,11 @@ Code Release Step:
 
 Hierachical Multi-head Low-Rank MLP-Mixer
 
-Container-Light pretraining on ImageNet
+Container-Light pretraining on ImageNet ：
 
-Pre-trained Container-Light model 20 Millon Parameter
+1. Pre-trained Container-Light model 20 Millon Parameter
+
+2. Pre-trained Container-Light model 50 Millon Parameter
 
 Container-Light on Single-Scale SMCA-DETR
 
