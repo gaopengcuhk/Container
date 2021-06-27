@@ -1,6 +1,6 @@
 # Container
 
-We offer two types of model, namely old model and new model. Old models are used for replicating our first version of our arxiv submission(fully test on downstream transfer like Mask RCNN, Retinanet, DETR, Semantic Segmentation, and DINO). New models add some tricks motivated by other paper and significantly improve upon old models in our arxiv submission. 
+We offer two types of model, namely old model and new model. Old models are used for replicating our first version of our arxiv submission(fully test on downstream transfer like Mask RCNN, Retinanet, DETR, Semantic Segmentation, and DINO). New models add some tricks motivated by other paper and significantly improve upon old models (mainly validate on ImageNet classfication, not on downstream tasks) in our arxiv submission. 
 
 Official Code Release for Container : Context Aggregation Network
 
