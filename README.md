@@ -27,3 +27,7 @@ Container-Light pretraining on ImageNet (New)：
 
 
 Code are under cleanning. If you need the code emergently, please drop me a email 1155102382@link.cuhk.edu.hk 
+
+Internship Chance:
+
+I am going to join Shanghai AI Lab in the future. My research focus on General Vision and Vision Langauge Reasoning. We offer good research platform for our interns. If you are interested in internship change at Shanghai AI Lab, please drop me a email at 1155102382@link.cuhk.edu.hk.
