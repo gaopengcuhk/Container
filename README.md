@@ -30,4 +30,4 @@ Code are under cleanning. If you need the code emergently, please drop me a emai
 
 Internship Chance:
 
-I am going to join Shanghai AI Lab in the future. My research focus on General Vision and Vision Langauge Reasoning. We offer good research platform for our interns. If you are interested in internship change at Shanghai AI Lab, please drop me a email at 1155102382@link.cuhk.edu.hk.
+I am going to join Shanghai AI Lab in the future. My research focuses on General Vision and Large-scale visual-language pretraining. We offer good research platforms and guidance for our interns. If you are interested in an internship chance at Shanghai AI Lab, please drop me an email at 1155102382@link.cuhk.edu.hk.
