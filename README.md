@@ -10,7 +10,7 @@ Hierachical Multi-head Low-Rank MLP-Mixer (Old)
 
 Container-Light pretraining on ImageNet (Old)：
 
-1. Pre-trained Container-Light model 20 Millon Parameter (Old)
+1. Pre-trained Container-Light model 20 Millon Parameter (Old， 82.0% top1, 20M)
 
 
 Container-Light on Single-Scale SMCA-DETR (Old)
@@ -21,9 +21,9 @@ Container-Light for Semantic Segmenetaion on ADE and Cityscape (Old)
 
 Container-Light pretraining on ImageNet (New)：
 
-1. Pre-trained Container-Light model 20 Millon Parameter (New)
+1. Pre-trained Container-Light model 20 Millon Parameter (New, 83.0% top1, 20M)
 
-2. Pre-trained Container-Light model 50 Millon Parameter (New)
+2. Pre-trained Container-Light model 50 Millon Parameter (New, 84.5% top1, 50M)
 
 
 Code are under cleanning. If you need the code emergently, please drop me a email 1155102382@link.cuhk.edu.hk 
