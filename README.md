@@ -21,9 +21,11 @@ Container-Light for Semantic Segmenetaion on ADE and Cityscape (Old)
 
 Container-Light pretraining on ImageNet (New)：
 
-1. Pre-trained Container-Light model 20 Millon Parameter (New, 83.0% top1, 20M)
+1. Pre-trained Container-S model 20 Millon Parameter (New, 83.0% top1, 20M)
 
-2. Pre-trained Container-Light model 50 Millon Parameter (New, 84.5% top1, 50M)
+2. Pre-trained Container-M model 50 Millon Parameter (New, 84.5% top1, 50M)
+
+
 
 
 Code are under cleanning. If you need the code emergently, please drop me a email 1155102382@link.cuhk.edu.hk 
