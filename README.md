@@ -49,3 +49,6 @@ If you find this repository useful, please consider citing our work:
 ## Contributor
 Peng Gao
 
+## Acknowledgement
+The codebase are borrowed heavyily from DeiT.
+
