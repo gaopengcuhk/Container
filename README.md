@@ -4,6 +4,11 @@ We offer two types of model, namely old model and new model. Old models are used
 
 Official Code Release for Container : Context Aggregation Network
 
+Comparison with popular backbone :
+
+![Container](container.png)
+
+
 Code Release Step:
 
 Hierachical Multi-head Low-Rank MLP-Mixer (Old)
