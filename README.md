@@ -9,7 +9,7 @@ Comparison with popular backbone :
 ![Container](container.png)
 
 
-Code Release Step:
+#Code Release Step:
 
 Hierachical Multi-head Low-Rank MLP-Mixer (Old)
 
