@@ -32,7 +32,7 @@ Container-Light pretraining on ImageNet (New)：
 
 Code release:
 
-[Container V1](https://github.com/allenai/container)
+1 Imagenet pretrained model for Container V1 : [Container V1](https://github.com/allenai/container)
 
 
 ## Citation
