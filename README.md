@@ -30,14 +30,8 @@ Container-Light pretraining on ImageNet (New)：
 
 2. Pre-trained Container-M model 50 Millon Parameter (New, 84.5% top1, 50M)
 
-
-
-
-Code are under cleanning. If you need the code emergently, please drop me a email 1155102382@link.cuhk.edu.hk 
-
-Internship and Research Engineer Chance:
-
-I am going to join Shanghai AI Lab in the future. My research focuses on General Vision and Large-scale visual-language pretraining. We offer good research platforms and guidance for our interns and research engineers. If you are interested in an internship or full-time research engineer chances at Shanghai AI Lab, please drop me an email at 1155102382@link.cuhk.edu.hk.
+Code release:
+![Container V1](https://github.com/allenai/container)
 
 
 ## Citation
