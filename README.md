@@ -2,10 +2,6 @@
 
 Official Code Release for Container : Context Aggregation Network
 
-Comparison with popular backbone :
-
-![Container](container.png)
-
 Code release:
 
 1. Imagenet pretrained model for Container V1 : [Container V1](https://github.com/allenai/container)
