@@ -9,6 +9,7 @@ Comparison with popular backbone :
 Code release:
 
 1. Imagenet pretrained model for Container V1 : [Container V1](https://github.com/allenai/container)
+2. Imagenet pretrained model for Container V2 : [Container V2](https://github.com/gaopengcuhk/Contianer-V2)
 
 
 ## Citation
