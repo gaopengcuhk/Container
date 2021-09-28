@@ -21,7 +21,7 @@ If you find this repository useful, please consider citing our work:
 ```
 
 ## News
-Container got accepted by Neuips 2021.
+Container got accepted by [Neuips 2021](https://nips.cc/Conferences/2021).
 
 ## Contributor
 Peng Gao
