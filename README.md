@@ -8,6 +8,7 @@ Code release:
 2. Imagenet pretrained model for Container V2 : [Container V2](https://github.com/gaopengcuhk/Contianer-V2)
 
 
+
 ## Citation
 If you find this repository useful, please consider citing our work:
 ```
@@ -18,6 +19,9 @@ If you find this repository useful, please consider citing our work:
   year={2021}
 }
 ```
+
+## News
+Container got accepted by Neuips 2021.
 
 ## Contributor
 Peng Gao
