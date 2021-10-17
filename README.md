@@ -4,7 +4,7 @@ Official Code Release for Container : Context Aggregation Network
 
 # Comparion between CNN, MLP-Mixer and Transformer
 ![Container](conv_mlp_transformer.jpg)
-# Container combine best of both worlds
+# Best of both worlds
 ![Container](container.jpg)
 
 Code release:
