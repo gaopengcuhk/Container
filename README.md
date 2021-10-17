@@ -2,6 +2,11 @@
 
 Official Code Release for Container : Context Aggregation Network
 
+# Comparion between CNN, MLP-Mixer and Transformer
+![Container](conv_mlp_transformer.jpg)
+# Container combine best of both worlds
+![Container](container.jpg)
+
 Code release:
 
 1. Imagenet pretrained model for Container V1 : [Container V1](https://github.com/allenai/container)
